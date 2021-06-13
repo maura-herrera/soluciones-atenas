@@ -68,8 +68,8 @@ main .container-main .row-main .col-main a{
     font-family: 'Roboto', sans-serif;
     width: 200px;
     height: 60px;
-    color: #A8FF30;
-    background: #0927EB;
+    background-color: #A8FF30;
+    color: #0927EB;
     border-radius: 10px;
     text-align: center;
     opacity: 0.8;
