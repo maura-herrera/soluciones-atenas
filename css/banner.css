@@ -171,17 +171,19 @@ main .container-main .row-main .col-main a:hover{
         main .container-main .row-main .col-main h2{
             font-size: 1.3rem ;
             text-align: center;
+            margin-top: -20px;
         }
-
-        
-        main .container-main .row-main .col-main h2{
-            display: none;
-             }
 
         main .container-main .row-main .col-main p{
         display: none;
          }
 
+         main .container-main .row-main .col-main a{
+            font-size: 15px;
+            width: 100px;
+            height: 20px;
+            margin-left: 10%;
+         }
     
     }
 
